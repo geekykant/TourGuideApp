@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f9d58</color>
+    <color name="colorPrimaryDark">#0c7e46</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tab_background_selected">#FFFFFF</color>
+    <color name="tab_background_unselected">#9FD8BC</color>
+    <color name="ic_launcher_background">#FFC12A</color>
+</resources>

@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="listimage">ListImage</string>
+
+    <string name="Munnar_desc">Often called the Kashmir of South India, its location is some 1600 ft above sea level. \n\nIt\'s one of the major places of attraction for national and international tourists. \n\nSome of the must visit place in and around Munnar are: Eravikulam National Park; Indo Swiss Dairy Farm; Anamudi, Tata Tea Museum and Idukki Arch Dam.</string>
+    <string name="Vagamon_desc">Near Kottayam-Idukki border of Kerala, Vagamon welcomes you at a height of 1100 meters above sea level. Knows as \'Scotland of Asia\', this place was first discovered by British. Once known for growing tea, now it\'s a hill station and major place of attractions for tourists. Christian missionaries built here their abode of service at Kurisumala in Vagamon</string>
+    <string name="Thekkady_desc">Do you love those four legged creatures? Well, Thekkady is a must visit place for you. Have a one-to-one with Tiger Uncle in this beautiful tiger reserve. Be ready to hear a thunder from elephant and a roar of lion. \n\nWatch beautiful Deers, boars and bison roaming inside. Next you can head for Nature Walk in Periyar Tiger Reserve. \n\nThis 5 km area is protected under Sandal Protection Trekking Programme. Enjoy, watching, birds, bees and butterflies.</string>
+    <string name="Alappuzha_desc">Popularly called the \'Venice of the East\', Alappuzha Backwaters attract tourist in vast numbers throughout the year. The credit goes to the network of canals making ways through vast expanse of paddy fields. The beautiful beaches, houseboat holidays and boat races win hearts of tourists. The coir industry and marine products of Alappuzha Backwaters are well known businesses.\n\nOther major places of attractions near Alappuzha are the statue of Karumadikuttan near Ambalapuzha, Mannarasala Sri Nagaraja Temple, Mannarasala Sri Nagaraja Temple and Revi Karuna Karan (RKK) Memorial Museum.</string>
+    <string name="Kochi_desc">A 13th Century Italian traveler remarked about Kochi as follows: "if China is where you make money, then Cochin surely is the place where you spend it!". Kochi, erstwhile Cochin is one of the important seaports of India. \n\nHence Cochin is a tourist destination, a business hub, a place to find job and an abode to enjoy life. People from all across India come here and stay for livelihood. \n\nThis is one of the major tourist attractions in Kerala for spending holidays. \n\nPopular places of attraction in and around Kochi are: Jewish Synagogue, a beautiful structure built in 1568; Cherai Beach, Marine Drive, Santa Cruz Cathedral Basilica, Fortkochi and Chinese Fishing Nets, Mattancherry Palace, Kodanad Elephant Sanctuary, Ezhattumugham Nature Village and Athirappally water falls.</string>
+    <string name="Kovalam_desc">"The Paradise of South India" is surrounded by three beaches which together forms the Kovalam Crescent. The 17 KM coastline of Kovalam is orchard of coconut trees. Just a 16 Km drive from Thiruvananthapuram city, Kovalam is a must visit place. Do you know the word Kovalam means "Groove of Coconut Trees". \n\nFor sure you will enjoy drinking lots of coconut water and recipes made of coconut and rice here. </string>
+    <string name="Thrissur_desc">Your cultural knowledge of Kerala can not be said as complete without visiting to Thrissur. The Cultural Capital of Kerala has association with rich history of cultural, spiritual and religious learnings. \n\nThe widely popular most magnificent temple festival \'Thrissur Pooram\' is hosted here. Some other places of tourist attractions are Athirappally Waterfalls and Vazhachal Waterfalls and Anakkayam.</string>
+    <string name="Thenmala_desc">Its location is some 66 kms east of Kollam. The Thenmala is meeting point of kollam-Shencottah road and Trivandrum-Shencottah road. Numerous rubber and tea plantations are found here. Timbers of all varieties are exported to all parts of India from here. The Themala Dam site is open for tourists throughout the year.\n\nThe major tourist attractions of Thenmala are Thenmala Eco Tourism Centre and Deer Rehabilitation Centre built within the Kallada river side forest.A Tree House and a small Children park are special places of attractions for tourists visiting this site.\n\n\nCost: ₹3100</string>
+
+    <string name="taj_green_desc">Located in Thiruvananthapuram, Taj Green Cove Resort and Spa Kovalam is by the sea, a 2-minute drive from Samudra Beach Park and 5 minutes from Kovalam Beach.\n\nFeatured amenities include wired Internet access (surcharge), a 24-hour business center, and limo/town car service.Planning an event in Thiruvananthapuram?This resort has 3208 square feet (298 square meters) of space consisting of conference space and meeting rooms.\n\nA train station pick-up service is provided at no charge (available 24 hours), and free valet parking is available onsite.\n\n\nCost: ₹1300</string>
+    <string name="leela_kovalam_desc">Kerala\'s largest resort with 182 guest rooms and suites spread over 44 acres is built on a rock-face, is cradled between two wide sweeping beaches and has a panoramic view of the famous Kovalam coastline.\n\nThis 5 star deeluxe reort, with an array of superlative restaurants and lounges, also specializes in traditional Ayurveda Treatment with a Wellness Spa.The Terrace restaurant is a spectacular cliff – top all day dining restaurant.Tides restaurant with its rustic appeal serves fresh seafood by the beach.\n\nAt the lobby level, The Bar overlooks the ocean view pool with large sun decks.Sky Bar, sits virtually a top the Arabian Sea\n\n\nCost: ₹8900</string>
+    <string name="hilton_garden_desc">A stay at Hilton Garden Inn Trivandrum places you in the heart of Thiruvananthapuram, a 2-minute drive from Trivandrum Secretariat and 7 minutes from Napier Museum.Featured amenities include complimentary wired Internet access, a 24-hour business center, and express check-in.\n\nPlanning an event in Thiruvananthapuram?\n\nThis hotel has 2800 square feet (260 square meters) of space consisting of a conference center and meeting rooms.A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\n\n\nCost: ₹6700 </string>
+    <string name="hycinth_desc">With a stay at Hycinth By Sparsa, you\'ll be centrally located in Thiruvananthapuram, within a 10-minute drive of Trivandrum Secretariat and Thiruvananthapuram Zoo.Featured amenities include a business center, express check-in, and express check-out.\n\nPlanning an event in Thiruvananthapuram?\n\nThis hotel has 4189 square feet (389 square meters) of space consisting of a conference center and meeting rooms.Guests may use a train station pick-up service for a surcharge, and free valet parking is available onsite.\n\n\nCost: ₹3700</string>
+    <string name="niraamaya_desc">When you stay at Niraamaya Surya Samudra in Thiruvananthapuram, you\'ll be on the waterfront and 6 minutes by car from Chowara Beach.Featured amenities include express check-in, complimentary newspapers in the lobby, and dry cleaning/laundry services.\n\nEvent facilities at this resort consist of a conference center and a meeting room.For a surcharge, guests may use a roundtrip airport shuttle (available 24 hours) and a train station pick-up service.\n\n\nCost: ₹6300</string>
+
+    <string name="Shala_Restaurant_desc">Literally, Ma ke haath ka khaana! \n\nThe very USP of this place is home cooked food by the local housewives. So, you can expect delicious home cooked food in a lovely set up. It’s a small place and it shouldn’t come as a surprise if you see a long queue waiting outside to get a table here.\n\nSpeciality: Malabar prawn curry, kingfish steak, and the vegetarian special (which changes daily)\n\n\nLocation: Peter Celli Street, Fort Kochi, Kochi</string>
+    <string name="Rahmathullah_Hotel_desc">Don’t go by the looks of this little place because if you want to have the best biryani in Kerala you’ll have to bear with it! Kayee’s Rahmathullah Hotel has been serving since 1948 and everyday people from all across line up here to have a taste of their delectable biryani.\n\n\nSpeciality: Biryani, Fridays you get fish Biryani and on Tuesdays, prawn. On all the other days chicken and mutton is available.\n\nLocation: Aanavaadal, Fort Kochi, Mattancherry, Kochi\n\nRatings: 5 star</string>
+    <string name="Kethal_Chicken_desc">Forget KFC, its KCF or Kethal’s Chicken Fry that you must try! Operating since 1949, this is an amazing place that’s been serving Kerala’s favourite fried chicken.\n\n\nSpeciality: Chapppathi and chicken fry with lime juice sprinkled on it\n\nLocation: Rahmaniya Lane, Chalai Bazar,Trivandrum\n\nRatings: 4 stars</string>
+    <string name="Rapsy_Restaurant_desc">While on a backpack trip with a tight budget, Rapsy Restaurant is your answer to delicious food at cheap rates. Prices for Rapsy’s famous paratha or biryani starts at just Rs. 50!\n\n\nSpeciality: Spanish omelette, Israeli shakshuka (eggs with tomatoes and spices) and Mexican salsa.\n\nLocation: Main Bazaar, Munnar\n\nRatings: 4 stars</string>
+
+    <string name="kovalam_beach_desc">If you want action, you\'ll definitely find it at Kovalam beach — the most popular and most developed beach in Kerala. \n\nOften likened to Goa\'s Calangute and Baga beaches, Kovalam is located not far from the capital, Trivandrum. It\'s actually made up of two main coves — Hawa (also referred to as Eve\'s beach) and Lighthouse. \n\nLighthouse is the biggest and busiest of the two, with its promenade lined with open-air restaurants. Kovalam is a popular surfing destination in India. If you'd prefer somewhere a little more secluded, you\'ll find nearby Samudra beach to be a better option.</string>
+    <string name="marari_beach_desc">Quiet Marari beach is located not far from Alleppey, making it convenient for those who\'d like to spend some time at the beach in between going on a houseboat trip along the backwaters. A big attraction there is the earth-conscious Marari Beach Resort. \n\nIt\'s set on a sprawling property filled with coconut groves and lotus ponds, and among other things offers Ayurveda treatments and yoga classes on the beach.</string>
+    <string name="this_is_the_header_for_each_list_places">This is the header for each List places</string>
+
+    <string-array name="tourist_spot_names">
+        <item>Munnar</item>
+        <item>Vagamon</item>
+        <item>Thekkady</item>
+        <item>Alappuzha</item>
+        <item>Kochi</item>
+        <item>Kovalam</item>
+        <item>Thrissur</item>
+        <item>Thenmala</item>
+    </string-array>
+
+    <integer-array name="tourist_spot_images">
+        <item>@drawable/munnar</item>
+        <item>@drawable/vagamon</item>
+        <item>@drawable/thekkady</item>
+        <item>@drawable/alappuzha</item>
+        <item>@drawable/kochi</item>
+        <item>@drawable/kovalam</item>
+        <item>@drawable/thrissur</item>
+        <item>@drawable/thenmala</item>
+    </integer-array>
+
+    <integer-array name="tourist_spot_description">
+        <item>@string/Munnar_desc</item>
+        <item>@string/Vagamon_desc</item>
+        <item>@string/Thekkady_desc</item>
+        <item>@string/Alappuzha_desc</item>
+        <item>@string/Kochi_desc</item>
+        <item>@string/Kovalam_desc</item>
+        <item>@string/Thrissur_desc</item>
+        <item>@string/Thenmala_desc</item>
+    </integer-array>
+
+    <string-array name="hotels_names">
+        <item>Taj Green Cove Resort</item>
+        <item>The Leela Kovalam Bench</item>
+        <item>Hilton Garden inn Trivandrum</item>
+        <item>Hycinth By sparsa</item>
+        <item>Niraamaya Surya Samudra</item>
+    </string-array>
+
+    <integer-array name="hotels_images">
+        <item>@drawable/taj_green</item>
+        <item>@drawable/leela_kovalam</item>
+        <item>@drawable/hilton_garden</item>
+        <item>@drawable/hycinth</item>
+        <item>@drawable/niraamaya</item>
+    </integer-array>
+
+    <integer-array name="hotels_description">
+        <item>@string/taj_green_desc</item>
+        <item>@string/leela_kovalam_desc</item>
+        <item>@string/hilton_garden_desc</item>
+        <item>@string/hycinth_desc</item>
+        <item>@string/niraamaya_desc</item>
+    </integer-array>
+
+    <string-array name="restaurant_names">
+        <item>Shala Restaurant</item>
+        <item>Rahmathullah Hotel</item>
+        <item>Kethal’s Chicken</item>
+        <item>Rapsy Restaurant</item>
+    </string-array>
+
+    <integer-array name="restaurant_images">
+        <item>@drawable/shala_restaurant</item>
+        <item>@drawable/rahmathullah_hotel</item>
+        <item>@drawable/kethal_chicken</item>
+        <item>@drawable/rapsy_restaurant</item>
+    </integer-array>
+
+    <integer-array name="restaurant_description">
+        <item>@string/Shala_Restaurant_desc</item>
+        <item>@string/Rahmathullah_Hotel_desc</item>
+        <item>@string/Kethal_Chicken_desc</item>
+        <item>@string/Rapsy_Restaurant_desc</item>
+    </integer-array>
+
+    <string-array name="beaches_names">
+        <item>Kovalam Beach</item>
+        <item>Marari Beach</item>
+    </string-array>
+
+    <integer-array name="beaches_images">
+        <item>@drawable/kovalam_beach</item>
+        <item>@drawable/marari_beach</item>
+    </integer-array>
+
+    <integer-array name="beaches_description">
+        <item>@string/kovalam_beach_desc</item>
+        <item>@string/marari_beach_desc</item>
+    </integer-array>
+
+
+</resources>
