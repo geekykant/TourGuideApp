@@ -17,6 +17,11 @@ public class ListAdapter extends ArrayAdapter {
     private int mResources;
     private List<ListPlaces> arrayList;
 
+    static class ListHolder{
+        ImageView cover;
+        TextView name;
+    }
+
     ListAdapter(@NonNull Context context, int resource, @NonNull List list) {
         super(context, resource, list);
 
@@ -28,19 +33,27 @@ public class ListAdapter extends ArrayAdapter {
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
+
+        ListHolder viewHolder;
+
         if (convertView == null) {
             convertView = LayoutInflater.from(mContext).inflate(mResources, parent, false);
+
+            viewHolder = new ListHolder();
+            viewHolder.cover = (ImageView) convertView.findViewById(R.id.setImage);
+            viewHolder.name = (TextView) convertView.findViewById(R.id.setText);
+
+            convertView.setTag(viewHolder);
+        }else{
+            viewHolder = (ListHolder) convertView.getTag();
         }
 
         ListPlaces aa = new ListPlaces(arrayList.get(position).getName(),
                 arrayList.get(position).getResourseId());
 
-        //assigns values to adapterLayout
-        ImageView cover = (ImageView) convertView.findViewById(R.id.setImage);
-        TextView text = (TextView) convertView.findViewById(R.id.setText);
-
-        cover.setBackgroundResource(aa.getResourseId());
-        text.setText(aa.getName());
+        //assigns values to viewHolder
+        viewHolder.cover.setImageResource(aa.getResourseId());
+        viewHolder.name.setText(aa.getName());
 
         return convertView;
     }

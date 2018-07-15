@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Tour Guide App</string>
+    <string name="app_name" translatable="false">Tour Guide App</string>
     <string name="listimage">ListImage</string>
+    <string name="kerala_tourism_guide">"Kerala Tourism Guide"</string>
 
     <string name="Munnar_desc">Often called the Kashmir of South India, its location is some 1600 ft above sea level. \n\nIt\'s one of the major places of attraction for national and international tourists. \n\nSome of the must visit place in and around Munnar are: Eravikulam National Park; Indo Swiss Dairy Farm; Anamudi, Tata Tea Museum and Idukki Arch Dam.</string>
     <string name="Vagamon_desc">Near Kottayam-Idukki border of Kerala, Vagamon welcomes you at a height of 1100 meters above sea level. Knows as \'Scotland of Asia\', this place was first discovered by British. Once known for growing tea, now it\'s a hill station and major place of attractions for tourists. Christian missionaries built here their abode of service at Kurisumala in Vagamon</string>
@@ -25,6 +26,13 @@
     <string name="kovalam_beach_desc">If you want action, you\'ll definitely find it at Kovalam beach — the most popular and most developed beach in Kerala. \n\nOften likened to Goa\'s Calangute and Baga beaches, Kovalam is located not far from the capital, Trivandrum. It\'s actually made up of two main coves — Hawa (also referred to as Eve\'s beach) and Lighthouse. \n\nLighthouse is the biggest and busiest of the two, with its promenade lined with open-air restaurants. Kovalam is a popular surfing destination in India. If you'd prefer somewhere a little more secluded, you\'ll find nearby Samudra beach to be a better option.</string>
     <string name="marari_beach_desc">Quiet Marari beach is located not far from Alleppey, making it convenient for those who\'d like to spend some time at the beach in between going on a houseboat trip along the backwaters. A big attraction there is the earth-conscious Marari Beach Resort. \n\nIt\'s set on a sprawling property filled with coconut groves and lotus ponds, and among other things offers Ayurveda treatments and yoga classes on the beach.</string>
     <string name="this_is_the_header_for_each_list_places">This is the header for each List places</string>
+
+    <string-array name="tab_name">
+        <item>Tourist Spots</item>
+        <item>Hotels</item>
+        <item>Restaurant</item>
+        <item>Beaches</item>
+    </string-array>
 
     <string-array name="tourist_spot_names">
         <item>Munnar</item>

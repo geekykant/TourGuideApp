@@ -7,7 +7,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     private final int PAGE_COUNT = 4;
-    private String tabTitles[] = new String[]{"Tourist Spots", "Hotels", "Restaurant", "Beaches"};
     private Context mContext;
 
     public SimpleFragmentPagerAdapter(Context context, FragmentManager fm) {
@@ -37,7 +36,8 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     // This determines the title for each tab
     @Override
-    public CharSequence getPageTitle(int position) {
+    public CharSequence getPageTitle(int position){
+        String tabTitles[] = mContext.getResources().getStringArray(R.array.tab_name);
         // Generate title based on item position
         return tabTitles[position];
     }
